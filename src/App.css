@@ -44,7 +44,7 @@ button {
 	font-family: "Montserrat", sans-serif;
 	font-size: 1rem;
 	grid-area: heading;
-	background-color: red;
+
 	color: var(--outer-space);
 }
 
